@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Haegun Choi
+# Hi there 👋, I'm Haegeun Choi
 
 I'm a Computer Engineering student at **Hanbat National University**.
 
